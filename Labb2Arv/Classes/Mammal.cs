@@ -18,7 +18,7 @@ namespace Labb2Arv.Classes
 
         public void GiveBirth()
         {
-            Console.WriteLine("Däggdjuret föder sina barn");
+            Console.WriteLine("The mammal gives birth live young instead of laying eggs");
         }
 
        
